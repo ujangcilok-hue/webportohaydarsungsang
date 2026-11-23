@@ -149,12 +149,7 @@ body {
   margin-left: 14px;
 }
 .brand-arrows {
-  width: min(100%, 380px);
-  position: absolute;
-  left: 0;
-  top: 44px;
-  z-index: 1;
-  overflow: visible;
+  display: none;
 }
 .portrait-wrap {
   width: var(--portrait-width);
